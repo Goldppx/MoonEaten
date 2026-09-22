@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "id": "example-store-do-not-display",
+    "isExample": true,
+    "name": "示例店名（页面不会显示）",
+    "city": "杭州",
+    "cuisine": "杭帮菜",
+    "address": "浙江省杭州市西湖区示例路 1 号",
+    "lat": 30.2741,
+    "lng": 120.1551,
+    "coordinateSystem": "wgs84",
+    "price": 68,
+    "scores": {
+      "taste": 9.1,
+      "value": 8.6,
+      "environment": 8.8,
+      "service": 8.4
+    },
+    "visitedAt": "2026-09-22",
+    "review": "写你的整体评价：适合谁、优点、需要注意的点。",
+    "image": "",
+    "dishes": [
+      {
+        "name": "示例菜品",
+        "price": 36,
+        "score": 9.2,
+        "spicy": 1,
+        "sweet": 2,
+        "rich": 3,
+        "ingredients": ["食材 A", "食材 B", "食材 C"],
+        "note": "写这道菜的口感、味道和分量。"
+      }
+    ]
+  }
+]
