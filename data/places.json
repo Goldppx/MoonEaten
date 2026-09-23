@@ -27,8 +27,13 @@
         "spicy": 1,
         "sweet": 2,
         "rich": 3,
-        "ingredients": ["食材 A", "食材 B", "食材 C"],
-        "note": "写这道菜的口感、味道和分量。"
+        "ingredients": [
+          "食材 A",
+          "食材 B",
+          "食材 C"
+        ],
+        "note": "写这道菜的口感、味道和分量。",
+        "image": ""
       }
     ]
   }
